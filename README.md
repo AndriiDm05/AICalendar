@@ -24,8 +24,10 @@ Security Considerations
 While authentication is simplified (as expected for this scope), basic principles like input validation and proper DB usage are followed. There's room to expand on auth in the future.
 
 Business Logic
+
 The logic to find available time slots for multiple participants is implemented in a clean, testable way. It doesn’t rely on any specific data source, which makes it flexible and reusable.
 
 Testing
+
 Unit tests are in place for the core scheduling logic, and basic integration tests ensure the API behaves as expected. This adds confidence that the app will remain stable as it evolves.
 
