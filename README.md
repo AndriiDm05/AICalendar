@@ -2,6 +2,7 @@
 This project has undergone a comprehensive code review to ensure code quality, maintainability, and adherence to modern ASP.NET Core best practices.
 
 🔍 Reviewed Aspects
+
 Project Structure & Architecture
 The solution is well-organized with clear separation between models, data access, and controllers. This makes the code easy to follow and extend in the future.
 
